@@ -1,1 +1,1 @@
-# SHUFFLE-RGM
+# SHUFFLE-RGM Webservice
